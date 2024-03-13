@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199013239629",
+    "project_id": "todo-app-ec271",
+    "storage_bucket": "todo-app-ec271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199013239629:android:c1c48b8a51528102bec504",
+        "android_client_info": {
+          "package_name": "com.example.elbehery_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78SzoXYHpzPGC49H1iSeE1edF4xBeVnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199013239629:android:7c4aa3bf8b0298d7bec504",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78SzoXYHpzPGC49H1iSeE1edF4xBeVnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
